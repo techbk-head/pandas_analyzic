@@ -1,0 +1,8 @@
+2015-11-21 07:52:55.897,4809,INFO,nova.compute.resource_tracker,[req-58c4e088-8346-4e96-8929-f597597b4cfd - - - - -] Auditing locally available compute resources for node controller12
+2015-11-21 07:52:56.859,4809,INFO,nova.compute.resource_tracker,[req-58c4e088-8346-4e96-8929-f597597b4cfd - - - - -] Total usable vcpus: 12, total allocated vcpus: 9
+2015-11-21 07:52:56.860 4809 INFO nova.compute.resource_tracker [req-58c4e088-8346-4e96-8929-f597597b4cfd - - - - -] Final resource view: name=controller12 phys_ram=19893MB used_ram=20992MB phys_disk=688GB used_disk=160GB total_vcpus=12 used_vcpus=9 pci_stats=<nova.pci.stats.PciDeviceStats object at 0x7f166df8f910>
+2015-11-21 07:52:56.881 4809 INFO nova.scheduler.client.report [req-58c4e088-8346-4e96-8929-f597597b4cfd - - - - -] Compute_service record updated for ('controller12', 'controller12')
+2015-11-21 07:52:56.882 4809 INFO nova.compute.resource_tracker [req-58c4e088-8346-4e96-8929-f597597b4cfd - - - - -] Compute_service record updated for controller12:controller12
+2015-11-21 07:53:56.860 4809 INFO nova.compute.resource_tracker [req-58c4e088-8346-4e96-8929-f597597b4cfd - - - - -] Auditing locally available compute resources for node controller12
+2015-11-21 07:53:57.836 4809 INFO nova.compute.resource_tracker [req-58c4e088-8346-4e96-8929-f597597b4cfd - - - - -] Total usable vcpus: 12, total allocated vcpus: 9
+2015-11-21 07:53:57.837 4809 INFO nova.compute.resource_tracker [req-58c4e088-8346-4e96-8929-f597597b4cfd - - - - -] Final resource view: name=controller12 phys_ram=19893MB used_ram=20992MB phys_disk=688GB used_disk=160GB total_vcpus=12 used_vcpus=9 pci_stats=<nova.pci.stats.PciDeviceStats object at 0x7f166df8f910>
